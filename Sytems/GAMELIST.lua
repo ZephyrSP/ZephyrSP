@@ -1,6 +1,6 @@
 -- PlaceIdTable.lua
 local placeIdToName = {
-    [1234567890] = "Name of first place",
+    [4483381587] = "a literal baseplate.",
     [9876543210] = "Name of second place",
 
 }
